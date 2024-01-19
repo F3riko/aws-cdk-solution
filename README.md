@@ -1,5 +1,7 @@
 ## AWS CDK Log File Upload Solution
 
+![image](https://github.com/F3riko/aws-cdk-solution/assets/75631868/3829f2c5-f031-46e1-8567-57d8c828f5fd)
+
 This repository contains an AWS CDK solution for log file uploads, auto-compression, and storage. The solution includes an API Gateway and Lambda functions to handle log file content, storing it in both uncompressed and compressed S3 buckets.
 
 ### AWS CDK Stack Components
